@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4141a15f-0e45-4c32-a29e-ebad049619da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/GUI.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sudoku.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sudoku.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Python Projects/CodingProblems" />
   </component>
   <component name="RunManager">
     <configuration name="Sudoku" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -85,42 +85,46 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1580983072279">
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1581142711331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580983072279" />
-    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1580983072279">
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581142711331" />
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1581142712220">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580983072279" />
-    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1580983072279">
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581142712220" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1581142712220">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580983072279" />
-    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1580983072279">
+    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581142712220" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1581142712220">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580983072279" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1580961889292">
+    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581142712220" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1581142712220">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580961889292" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1580961889292">
+    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581142712220" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1580984070586">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580961889292" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1580961889292">
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580984070586" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1580984070586">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580961889292" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1580961889292">
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580984070586" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1580984070586">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580961889292" />
-    <state x="655" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1580959665436">
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580984070586" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1580984070586">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580959665436" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580984070586" />
+    <state x="655" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1581043649066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581043649066" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1580966470356">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

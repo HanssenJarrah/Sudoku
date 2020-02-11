@@ -1,4 +1,6 @@
 """"Simple Sudoku problem solver using backtracking"""
+import pygame, sys
+import SudokuGUI
 
 EMPTY = 0
 
@@ -125,11 +127,20 @@ def display_board(board):
 
 
 def main():
+    SudokuGUI.draw_board()
+
     solution = solve_sudoku(sudoku_problem)
     display_board(solution)
 
     # print("Is the solution the correct solution?")
-    # print(solution == sudoku_solution)
+    print(solution == sudoku_solution)
+
+    SudokuGUI.draw_board(solution)
+
+    while True:
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                sys.exit()
 
 
 if __name__ == "__main__":
